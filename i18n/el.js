@@ -37690,7 +37690,7 @@ p.scopedOptions=p.scopedOptions||{};p.scopedOptions['game:entertainment/art/word
   if (!p) return;
   p.scopedText = p.scopedText || {};
   Object.assign(p.scopedText["game:entertainment/beatles/multiple-choice"] || (p.scopedText["game:entertainment/beatles/multiple-choice"] = {}), {
-  "Which Beatle first met Paul McCartney at a church fête in Woolton in 1957?": "Ποιο μέλος των Beatles γνώρισε τον Πολ ΜακΚάρτνεϊ σε γιορτή στο Γούλτον το 1957;",
+  "Which Beatle first met Paul McCartney at a church fête in Woolton in 1957?": "Ποιο μέλος των Beatles γνώρισε τον Πολ ΜακΚάρτνεϊ σε γιορτή στο Γούλτον το 1957; ",
   "Lennon was performing with the Quarrymen at the Woolton fête.": "Ο Λένον έπαιζε με τους Quarrymen στη γιορτή του Γούλτον.",
   "Which Beatle was born Richard Starkey?": "Ποιο μέλος γεννήθηκε με το όνομα Ρίτσαρντ Στάρκι;",
   "Ringo Starr was the stage name of drummer Richard Starkey.": "Το Ρίνγκο Σταρ ήταν το καλλιτεχνικό όνομα του ντράμερ Ρίτσαρντ Στάρκι.",
